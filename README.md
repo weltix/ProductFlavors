@@ -20,3 +20,5 @@ https://medium.com/p/443c121f4325/edit
 ### For developers ###
 * Extract Product Flavors Practical Demo
 * Open Product Flavors Practical Demo on Android Studio
+
+https://medium.com/simform-engineering/basic-use-of-android-product-flavors-build-variants-315a4e11e435
